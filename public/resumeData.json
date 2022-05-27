@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name":"Software Kreatife Indonesia",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Sevendev14@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/Aseptrisna?tab=repositories",
+    "project":"",
+    "address":{
+      "street":"Jalan Sultan Agung No.17 Bandar Lampung",
+      "city":"Bandar Lampung",
+      "state":"-",
+      "zip": "-"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/seven.dev/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Aseptrisna?tab=repositories",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Detection Mask Using Java",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"1.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"PLN Asset Monitoring Application",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"2.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Catfish Feeding Scheduling App",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"3.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Pasar UMKM",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"4.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  },
+  "team":{
+    "projects": [
+      {
+        "title":"Rahmad Budianto",
+        "category":"Laravel Developer",
+        "image":"IMG_20220520_111813.jpg",
+        "url":"https://github.com/Aseptrisna"
+      },
+      {
+        "title":"Faiza Kailani Kuswanto",
+        "category":"ReactJs Developer",
+        "image":"faiza.png",
+        "url":"https://github.com/Aseptrisna"
+      },
+      {
+        "title":"Muhammad Rizki Fahreza",
+        "category":"Flutter Developer",
+        "image":"reza.png",
+        "url":"https://github.com/Aseptrisna"
+      },
+      {
+        "title":"Agung Yusuf Wibowo",
+        "category":"Flutter Developer",
+        "image":"Agung.png",
+        "url":"https://github.com/Aseptrisna"
+      }
+    ]
+  },
+  "lead":{
+    "projects": [
+      {
+        "title":"Asep Trisna Setiawan",
+        "category":"",
+        "image":"AsepTrisnaSetiawan.png",
+        "url":"https://github.com/Aseptrisna"
+      },
+      {
+        "title":"Diko Prasojo",
+        "category":"",
+        "image":"Foto 3x4.jpg",
+        "url":"https://github.com/Aseptrisna"
+       }
+    ]
+  },
+  "designer":{
+    "projects": [
+      {
+        "title":"Anggi Raka Siwi",
+        "category":"UI/UX Designer",
+        "image":"1653103175844.jpg",
+        "url":"https://github.com/Aseptrisna"
+       },
+       {
+        "title":"Irma Handayani",
+        "category":"Database Administrator",
+        "image":"irmahandayani.jpg",
+        "url":"https://github.com/Aseptrisna"
+       },
+       {
+        "title":"Irma Rahma Yati",
+        "category":"System Analyst",
+        "image":"irma.jpeg",
+        "url":"https://github.com/Aseptrisna"
+       }
+    ]
+  },
+  "mitra":{
+    "projects": [
+      {
+       
+       }
+    ]
+  }
+}
